@@ -1,6 +1,9 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+logo: /assets/img/Hemanth.jpg
+description:
+  <p align="center">
+  <a href="/assets/img/Hemanth Kumar Resume.doc">Resume</a> |
+  <a href="https://www.linkedin.com/in/hemanth-kumar-08b5a827/">LinkedIn</a> |
+  <a href="https://github.com/hemanth987kumar">GitHub</a>
+
 theme: jekyll-theme-minimal
