@@ -1,183 +1,82 @@
-# <center>CURRICULUM VITAE<center>
+# Data Science Portfolio
 ---
-## <center>Address: Seshagiri Flats, G1, “Thulasi Illam”, 5th Street, Punithavathy Colony, Gowrivakkam Chennai – 600073, Tamil Nadu, India<center>
-<center>Email: hemanth987kumar@yahoo.com
-         hemanth987kumar@gmail.com<center>
-        <center>Mobile:  +91 9092235345, 9940079830<center>
+## Machine learning
 
-### Summary
+### Fraud Detection
 
-IT professional with two decades of strong IT experiences on multiple technologies stacks with specialization of  Project & Product Management, IT Service Delivery Management, Resources Management, Global IT Transformation, Multi-location Team Set-up and Management, Client Partnership & Strategic Alliances Management, Change Management, Off shoring & Transition Management, Business Analysis, Design, Development and Maintenance, Quality Assurance, Process Automation, Business Management, Cloud Platform, Program Management, Robotics Process Automation, Six Sigma and Lean implementation, CMMI, QMS & ISMS Standards, Integration Management, Scope Management, Schedule Management, Quality Management, Resource Management, Communication Management, Risk Management, Procurement Management, Stakeholder Management, Program Management, Cost Management and Architecture, AI and ML.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-Project, Delivery and Program Management
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-	Handled multiple enterprise application development projects, product development & program management.
-	Implemented Agile Scrum development practices across all projects.
-	Project requirement gathering from the client.  Prepared work breakdown structure (WBS) for all projects.  
-	Effort estimation preparation for work breakdown structure (WBS) for the project.
-	Prepared statement of work (SOW) along with pre-sales team.
-	Prepared project plan with project delivery sprints and shared with stakeholders.
-	Implementation FMEA for project risk analysis and mitigation plan.
-	Preparation of RFD, Use-case, Software Architecture Design & ER Diagram.
-	Followed CMMI best practices and part of PEG steering committee.
-	Quality and Risk Management as per ISO standards.
-	Implemented Information Security Management.
+<center><img src="images/fraud_detection.jpg"/></center>
 
-Design and Architectural Skills
+---
+### Financial-Models-Numerical-Methods
 
-	Tier and layer architecture design.
-	SOA and Microservices Architecture design.
-	Architected enterprise, scalable and security applications.
-	TOGAF Trained & Followed TOGAF version 9.2 Architecture guidelines includes Architecture Development Method (8 Phases), ADM Guidelines, Architecture Content Framework, Enterprise Continuum and Tools, Architecture Capability Framework.  
-	Implemented Design Patterns, Event-Driven Architecture, MACH Architecture on development.
-	Implemented Best Practices in the software development methodology TDD, BDD, SCM, Continues Integration and Deployment (CI/CD), DevOps.
-	Done server capacity planning.
-	Architected cloud-based application, migrations and systems.
-	Domain level architecting of Ecommerce, BFSI, Telecom, Healthcare & Shipping
-	Payment gateway implementations with PCI compliance.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
-Technical Skills & Management
+This is just a collection of topics and algorithms that in my opinion are interesting.
 
-IoT Technologies:  Raspberry Pi, Apache Spark, Kafka, Rabbitmq, AWS SQS, AWS SNS, Apache ActiveMQ, Kinesis, MongoDB, Cassandra, Redis, Elasticsearch, AWS IoT Cloud.
+It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
+The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-Programming Languages:  Java, J2EE, PHP, Ruby, Perl, Python, C, C++, SCALA, Coldfusion, ASP, VB & C#, Apex.
+<center><img src="images/financial_modeling.jpg"/></center>
 
-IDEs & Editor:  Netbean, Eclipse, Notepad++, Aptana Studio, Visual Studio, Sublime Text, PyCharm, VScode.
+---
+### LSTM Neural Network for Time Series Prediction
 
-Web & Application Servers:  Apache, Nginx, WeBrick, IIS, GlassFish, Tomcat, Jboss, Weblogic & Websphere.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
 
-Databases:  MySQL, PostgreSQL, SQlite, MongoDB, MS SQL Server, Oracle & Cassandra. 
+The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
-Cloud Services: Amazon EC2, S3, Lambda, EKS, ECR, ECS, DynamoDB, RDS, AWS IoT Core, AWS IoT Analytics, AWS IoT Device Defender, AWS IoT Device Management, AWS IoT Events, AWS IoT Greengrass, AWS IoT SiteWise, AWS IoT Things Graph, Kinesis, EMR, QuickSight, MQ, SNS, SQS, AWS API Gateway, Windows Azure Services, GoGrid, GoDaddy, Rackspace, GCP Compute Engine, GCP Pub/SuB, GCP Kubernetes Engine, GCP Secret Manager.
+<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
 
-Search & Cache: Apache Solr and Varnish cache
+---
+### Text Classification
 
-Continues Integration & Deployment:  Jenkins, Circle CI, Ansible, Puppet, Chef, Nagios, Kubernetes, Docker
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/cnn-text-classification-tf#readme)
 
-SCM:  Tortoise SVN, GIT, Bitbucket, GITLAB, Github.
+It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-Frameworks:  Struts, Spring, Spring Boot, Hibernate, Zend, CakePHP, Codeignitor, Rails, Django, Lift, Play, Yii & .Net
+<center><img src="images/text_classification.png"/></center>
 
-Big Data:  Cloudera, Horton, Hadoop Common, HDFS, YARN, MapReduce, Apache Pig, Apache Hive, Apache HBase, Zookeeper, Oozie, Cassandra, Mahout, Ambari, Solr, Kafka, Spark.
+---
+### Awesome Machine Learning
 
-CMS & Ecommerce Platforms:  Drupal, Wordpress, Joomla, Magento, Open Cart, Shopify, BigCommerce, Salesforce Ecommerce Cloud, Uber Cart, SharePoint, Liferay, Commercetools, WebSphere Commerce. 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
 
-Operating Systems:  Linux (Ubuntu, Solaris, RedHat, SUSE & CentOS), All Windows & Mac OS.
+A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-CRM:  Salesforce (Admin and Development).  Salesforce Admin Certification by Simplilearn.
+<center><img src="images/machine_learning.jpg"/></center>
 
-Industry Standards:  Six Sigma, ISO Procedures, CMMI and ISMS.
+---
+### Gesture Recognizer
 
-Certifications:  C & P Insurance from American Institute of Insurance, USA & ISMS Internal Auditor, TOGAF 9.2, ITIL 4
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
 
-Onsite Assignment:  Travelled to Wellington, New Zealand and worked for 2 months.  Travelled to Marseille, France for transition of Salesforce project in India.
+Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
-Education Continuation:  Doing Master of Science in Artificial Intelligence and Machine Learning at Liverpool John Morris University, United Kingdom.
+Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
 
-Work Experiences
-Organization Name	:	Amazon Development Center India Pvt Ltd
-Designation	:	Principal Technical Program Manager (Leadership Level)
-Role	:	Senior Enterprise Architect and Technical Program Management
-Period			:	January 2022 - Till Date
+Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
-Organization Name	:	Royal Cyber India Pvt Ltd
-Designation	:	Senior Enterprise Architect
-Role	:	Senior Enterprise Architect
-Period			:	April 2021 – August 2021
+<center><img src="images/gesture_recognition.jpg"/></center>
 
-Organization Name	:	CMA CGM Shared Services India Pvt Ltd
-Designation	:	Deputy Director – Information Technology
-Role	:	Senior Enterprise Architect and Program Management
-Period			:	November 2015 – April 2021
+---
+### Human Activity Recognition
 
-Organization Name	:	Codebase Solutions Pvt Ltd
-Designation	:	Technical Head
-Period			:	December 2014 – June 2015
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)
 
-Organization Name	:	Asentech India Pvt Ltd
-Designation	:	Sr. Technical Architect
-Period			:	October 2013 – November 2014
+Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
 
-Achievements
+WALKING,
+WALKING_UPSTAIRS,
+WALKING_DOWNSTAIRS,
+SITTING,
+STANDING,
+LAYING.
+Compared to a classical approach, using a Recurrent Neural Networks (RNN) with Long Short-Term Memory cells (LSTMs) require no or almost no feature engineering. Data can be fed directly into the neural network who acts like a black box, modeling the problem correctly. Other research on the activity recognition dataset can use a big amount of feature engineering, which is rather a signal processing approach combined with classical data science techniques. The approach here is rather very simple in terms of how much was the data preprocessed.
 
-	Received Best Team Performance Award.
+Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
 
-Organization Name	:	CricHQ India Pvt Ltd
-Designation	:	Web Development Manager
-Period			:	June 2013 – October 2013
-
-Organization Name	:	Changepond Technologies Ltd
-Designation	:	Technical Architect
-Period			:	May 2012 – June 2013
-
-Organization Name	:	Sedin Technologies Pvt. Ltd
-Designation	:	Project Manager
-Period			:	December 2011 – April 2012
-
-Organization Name	:	Mobius Knowledge Services Pvt Ltd 
-Designation	:	Assistant Manager - Software
-Role	:	Manager - Software
-Period			:	February 2010 – November 2011
-Achievements
-
-	Got appreciation mail from client for efficient crawling with accuracy.
-	Crawled 3 millions of data in a day.
-	Attended NASSCOM Product Conclave & Expo 2010 at Bangalore.
-	Attended ISMS training program and got certified as Internal Auditor.
-
-Organization Name	:	Tata Consultancy Services Ltd 
-Designation	:	Team Leader
-Role	:	Project Leader
-Period			:	May 2007 – February 2010
-
-Achievements
-
-	Done SPS and Lean Sigma Projects and brought cost savings of 836 UK pounds.
-	Delivered job with the accuracy of 99% with the implementation of Six Sigma tools.
-	Reduced transportation cost from Rs.5450/FTE to Rs.2550/FTE monthly.
-	Got certified in C & P Insurance from American Institute of Insurance, USA.
-	Successfully implemented IQMS, ISMS and EMS procedures in the project.
-
-Organization Name	:	Merit Software Services (India) Pvt. Ltd. 
-Designation	:	Assistant Manager.
-Period			:	February 2006 to August 2006.
-Organization Name	:	Datamatics Technologies Ltd.
-Designation	:	Officer
-Period			:	February 2005 to February 2006.
-Organization Name	:	Smart Technologies Pvt. Ltd.
-Designation		:	Project Manager
-Period			:	December 1999 – January 2005
-
-Educational Details
-
-1)	Qualification		:	Bachelor of Computer Application
-	University		:	University of Madras
-Year of Passing		:	2002
-
-2)	Qualification		:	A.M.I. Mech.E (Part II)
-Institution		:	Institution of Mechanical Engineers (India)
-Year of Passing		:	1998
-
-3)	Qualification		:	Master of Computer Application
-Institution		:	University of Madras
-Year of Passing		:	2008
-
-Personal Details
-
-Name			:	B. Hemanth Kumar
-
-Father’s Name		:	R. Babu
-
-Date of Birth		:	03/11/1977
-
-Religion			:	Hindu
-
-Nationality		:	Indian
-
-Languages Known	:	English, French, Tamil, Telugu, Hindi
-
-Strength		:	Smart Working, Quick learner, Efficient & Self confidence.
-
-Hobbies			:	Reading news paper, General Knowledge Books, Watching Television & Browsing.
-
-Interests		:	Sports, Acquiring knowledge on latest technologies and inventions & Traveling.
+<center><img src="images/human_activity.jpg"/></center>
